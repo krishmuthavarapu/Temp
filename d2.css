@@ -1,0 +1,43 @@
+*{
+
+   margin:o auto; 
+}
+
+.jumbotron{
+    background-color: rgb(64, 52, 136) !important;
+    color: white !important;
+    margin: 0% !important;
+}
+.navbar{
+    background-color: slateblue;
+    margin: 0px !important;
+    font-size: 20px;
+}
+a:link{
+    color: wheat;
+}
+a:visited{
+    color: blanchedalmond;
+}
+.ebar{
+  
+    background-color: burlywood !important;
+    text-align: justify;
+    
+}
+.equi{
+    position: absolute;
+    left: 0px;
+    font-size: 3em;
+     top:10px;
+
+}
+.but{
+    position: absolute;
+    left:40px;
+    top:10px;
+    
+}
+.parg{
+    top: 100px;
+}
